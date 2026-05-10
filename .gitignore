@@ -1,0 +1,13 @@
+venv/
+.vscode/
+__pycache__/
+*.pyc
+data/raw/*
+!data/raw/.gitkeep
+venv/
+.github/workflows/venv/
+node_modules/
+venv/
+.vscode/
+data/raw/*
+__pycache__/
